@@ -1,0 +1,27 @@
+h1{
+    color:#fff !important;
+    background-color:grey;
+    padding:10px;
+    border-radius:5px;
+}
+#brand-logo{
+    color:#fff;
+}
+/* #index-bg-img{
+ background-image:url('../image/indexbg.jpg');
+
+} */
+.py-4{
+    /* background-image:url('../image/indexbg.jpg'); */
+    height:600px;
+}
+#cover-image{
+    width:200px;
+    height:200px;
+}
+#cover{
+    background-image:url('../image/indexbg.jpg');
+    background-position:cover;
+    height:100%;
+    width:100%;
+}
